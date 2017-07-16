@@ -27,3 +27,9 @@ Contact us
 ----------
 
 kuromoji@atilika.com
+
+Making jar
+-----------
+
+$ mvn compile
+$ mvn jar:jar
